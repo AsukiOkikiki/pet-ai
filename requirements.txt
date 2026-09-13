@@ -1,0 +1,11 @@
+# 桌面AI宠物 —— AI小新
+# 依赖清单（Python 3.8+）
+
+# 图片处理库：支持 Tkinter PhotoImage 加载 WebP 精灵图
+Pillow>=8.0.0
+
+# 数字图像处理：精灵图帧检测
+numpy>=1.20.0
+
+# Ollama官方Python SDK：调用本地AI模型
+ollama>=0.4.0
